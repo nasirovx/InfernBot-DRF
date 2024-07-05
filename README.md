@@ -5,7 +5,7 @@
 
 <main>
             <section>
-                <h2>Overview</h2> 
+                <h2>Overview</h2>  
                 <p>
                     InfernBot is a Django project that seamlessly combines the power of Django, Django Rest Framework, and
                     PyTelegramBotApi to create a versatile Telegram bot capable of handling notes and more.
