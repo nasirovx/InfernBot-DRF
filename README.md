@@ -3,7 +3,7 @@
             <h1>InfernBot - Django Telegram Bot Integration</h1>
         </header>
 
-<main>
+<main> 
             <section>
                 <h2>Overview</h2>  
                 <p>
