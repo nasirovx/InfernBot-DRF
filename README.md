@@ -22,7 +22,8 @@ python manage.py migrate
 python manage.py runserver
 
 # Start the Telegram bot
-python manage.py runtgbot
+python manage.py runtgbot.
+```
 
 ## 📢 Contributors
 - [Marselle.naz](https://instagram.com/marselle.naz) 🌟
