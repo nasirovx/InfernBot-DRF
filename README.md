@@ -1,31 +1,16 @@
-<div class="container">
-        <header>
-            <h1>InfernBot - Django Telegram Bot Integration 🤖</h1>
-        </header>
+# 🚀 InfernBot - Django Telegram Bot Integration 🤖
 
-<main> 
-            <section>
-                <h2>Overview</h2>  
-                <p>
-                    InfernBot is a Django project that seamlessly combines the power of Django, Django Rest Framework, and
-                    PyTelegramBotApi to create a versatile Telegram bot capable of handling notes and more.
-                </p>
-            </section>
+## 🌟 Overview
+Welcome to **InfernBot**, a Django project that seamlessly combines the power of **Django**, **Django Rest Framework**, and **PyTelegramBotApi** to create a versatile Telegram bot capable of handling notes and more. 📋✨
 
-<section>
-                <h2>Features</h2>
-                <ul>
-                    <li><strong>Note Creation:</strong> InfernBot allows users to create and manage notes through a Telegram
-                        interface.</li>
-                    <li><strong>Educational Example:</strong> Originally developed as an educational resource, this project
-                        serves as a great example of integrating Django and Telegram Bot functionalities.</li>
-                </ul>
-            </section>
+## 🎉 Features
+- 📒 **Note Creation**: InfernBot allows users to create and manage notes through a Telegram interface. 📝
+- 📚 **Educational Example**: Originally developed as an educational resource, this project serves as a great example of integrating Django and Telegram Bot functionalities. 💡🔧
 
-<section class="installation">
-    <h2>Getting Started</h2>
-    <pre>
-<code>
+## 🛠️ Getting Started
+Follow these steps to get InfernBot up and running:
+
+```bash
 # Install dependencies
 pip install -r requirements.txt
 
@@ -38,19 +23,10 @@ python manage.py runserver
 
 # Start the Telegram bot
 python manage.py runtgbot
-</code>
-                </pre>
 
-            </section>
-        </main>
+## 📢 Contributors
+- [Marselle.naz](https://instagram.com/marselle.naz) 🌟
+- [5ekastan](https://instagram.com/5ekastan) 🌟
 
-<footer>
-            <a href="https://instagram.com/marselle.naz">Marselle.naz, </a>
-            <a href="https://instagram.com/5ekastan">5ekastan</a>
-            <p>&copy; 2023 InfernBot. All rights reserved.</p>
-        </footer>
-    </div>
-
-</body>
-
-</html>
+## 📅 License
+&copy; 2023 InfernBot. All rights reserved.
