@@ -1,4 +1,4 @@
-# 🚀 InfernBot - Django Telegram Bot Integration 🤖
+# 🤖 InfernBot - Django Telegram Bot Integration 🚀
 
 ## 🌟 Overview
 Welcome to **InfernBot**, a Django project that seamlessly combines the power of **Django**, **Django Rest Framework**, and **PyTelegramBotApi** to create a versatile Telegram bot capable of handling notes and more. 📋✨
@@ -26,7 +26,6 @@ python manage.py runtgbot.
 ```
 
 ## 📢 Contributors
-- [Marselle.naz](https://instagram.com/marselle.naz) 🌟
 - [5ekastan](https://instagram.com/5ekastan) 🌟
 
 ## 📅 License
