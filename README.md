@@ -29,4 +29,4 @@ python manage.py runtgbot.
 - [5ekastan](https://instagram.com/5ekastan) 🌟
 
 ## 📅 License
-&copy; 2023 InfernBot. All rights reserved.
+&copy; 2023 InfernBot. All rights reserved.🚀🚀🌟🚀🌟🚀🌟🌟🚀🌟
